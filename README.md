@@ -1,2 +1,2 @@
-# Examen-Programaci-n-Web
+# Examen-Programacion Web
 Integrantes: Ignacia Arancibia - Eric Flores
